@@ -66,9 +66,11 @@ body{
     font-size: 30px;
 }
 .wind img{
-    height: 45px;
+    margin-top: -40px;
+    height: 140px;
 }
 .wind h2{
+    margin-top: -50px;
     font-size: 30px;
 }
 .humidity p{
